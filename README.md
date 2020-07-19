@@ -1,2 +1,2 @@
 # c-demos
-Simple tutorials in C 
+A repo for a collection of simple tutorials to get started coding in C 
